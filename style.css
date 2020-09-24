@@ -1,0 +1,46 @@
+h1{color:rgb(0, 0, 0);
+    font-size:45px;
+    font-weight:bold;
+    text-align: center;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-shadow: 3px 3px 1px rgb(128, 119, 119)}
+
+p.one{color:#000000;
+font-size:30;
+font-weight:bold;
+text-align:center;
+ font-family: "Comic Sans MS", cursive, sans-serif;}
+
+h2{color:rgb(157, 27, 172);
+font-size:40px;
+font-family: "Comic Sans MS", cursive, sans-serif;
+background-image: linear-gradient(rgb(128, 119, 119),white);
+}
+
+img{float:right;}
+img {
+    padding: 10px;
+    width:350px;
+    height: 360px;
+    background-image: linear-gradient(rgb(128, 119, 119),white);}
+
+p.tow{color:rgb(157, 27, 172);
+    font-size:20px;
+font-weight:bold;
+font-family: "Comic Sans MS", cursive, sans-serif;;}
+
+p.three{font-weight:bold;
+height: 190px;;
+color:rgb(157, 27, 172);
+
+font-size: 20px;
+font-family: "Comic Sans MS", cursive, sans-serif;
+background-image: linear-gradient(white,rgb(128, 119, 119));}
+
+p.list{background-image: linear-gradient(white,rgb(128, 119, 119));
+
+}
+div.one{background-image: linear-gradient(white,rgb(128, 119, 119)}
+    
+
+
